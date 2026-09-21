@@ -1,1 +1,3 @@
-This README was updated in feature/conflict branch.
+Gitflow Lab 5
+
+This README was updated again for conflict.
